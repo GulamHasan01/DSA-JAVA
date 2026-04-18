@@ -1,12 +1,13 @@
 package String;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 // Reverse words in-place and using extra space for each word
 
 public class ReverseWord {
     public static void main(String[] args) {
-        System.out.println(revWord("hello gulam hasan"));
+        System.out.println(reverseWords("hello gulam hasan"));
     }
     public static String revWord(String s){
         List<String>list=new ArrayList<>();
@@ -61,5 +62,20 @@ public class ReverseWord {
             l++;
             r--;
         }
+    }
+    public static String reverseWords(String s) {
+      String[] words=s.trim().split("\\s+");
+      int j= words.length-1;
+      int i=0;
+
+     while (j>i){
+          String temp=words[i];
+          words[i]=words[j];
+          words[j]=temp;
+         j--;
+         i++;
+      }
+
+      return String.join(" ",words);
     }
 }
