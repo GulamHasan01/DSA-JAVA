@@ -1,5 +1,8 @@
 package Arrays;
 
+//Finding the maximum distance between two indices in the array such that the colors
+// at those indices are different, using an efficient linear scan.
+
 public class MaxDistanceDt2House {
     public static void main(String[] args) {
         System.out.println(maxDistance(new int[]{1,8,3,8,3}));
