@@ -10,7 +10,7 @@ public class SubArraySum {
     public static int subarraySum(int[] nums, int k) {
 
         HashMap<Integer, Integer> map = new HashMap<>();
-        map.put(0, 1); // important
+        map.put(0, 1);
 
         int sum = 0;
         int count = 0;

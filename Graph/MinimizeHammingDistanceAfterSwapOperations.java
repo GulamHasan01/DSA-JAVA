@@ -1,4 +1,4 @@
-package Arrays;
+package Graph;
 
 public class MinimizeHammingDistanceAfterSwapOperations {
     public static void main(String[] args) {

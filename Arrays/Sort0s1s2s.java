@@ -8,7 +8,7 @@ public class Sort0s1s2s {
 
             while (mid <= high) {
                 if (nums[mid] == 0) {
-                    // Swap mid and low
+
                     int temp = nums[low];
                     nums[low] = nums[mid];
                     nums[mid] = temp;
