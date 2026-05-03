@@ -79,4 +79,65 @@ public class AVL {
 
         return root;
     }
+
+    // delete node
+
+    Node minNodeVal(Node root){
+        Node min=root;
+        while (min.left!=null) min=min.left;
+
+        return min;
+     }
+
+     Node deleteNode(Node root,int val){
+        if (root==null) return root;
+
+        if (root.val>val){
+           root.left=deleteNode(root.left,val);
+        }else if(root.val<val){
+            root.right=deleteNode(root.right,val);
+        }else{
+            if (root.left==null || root.right==null){
+                Node temp=(root.left==null)?root.right:root.left;
+                if (temp==null){
+                    root=null;
+                } else {
+                    root = temp; // one child
+                }
+            }else{
+                Node temp = minNodeVal(root.right);
+                root.val = temp.val;
+                root.right = deleteNode(root.right, temp.val);
+            }
+        }
+         if (root == null) return root;
+
+         // update height
+         root.height = 1 + Math.max(height(root.left), height(root.right));
+
+         int balance = getBalance(root);
+
+         // LL
+         if (balance > 1 && getBalance(root.left) >= 0)
+             return rotateRight(root);
+
+         // LR
+         if (balance > 1 && getBalance(root.left) < 0) {
+             root.left = rotateLeft(root.left);
+             return rotateRight(root);
+         }
+
+         // RR
+         if (balance < -1 && getBalance(root.right) <= 0)
+             return rotateLeft(root);
+
+         // RL
+         if (balance < -1 && getBalance(root.right) > 0) {
+             root.right = rotateRight(root.right);
+             return rotateLeft(root);
+         }
+
+         return root;
+     }
+
 }
