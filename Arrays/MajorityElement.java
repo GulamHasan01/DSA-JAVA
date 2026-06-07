@@ -20,6 +20,7 @@ public class MajorityElement {
                ans=num;
            }
         }
+        System.out.println(map.get(ans));
         return ans;
     }
 }

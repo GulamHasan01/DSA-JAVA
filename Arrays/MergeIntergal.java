@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-
+// list to array
 public class MergeIntergal {
 
     public static void main(String []args){

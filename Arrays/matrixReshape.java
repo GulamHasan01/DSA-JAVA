@@ -1,5 +1,6 @@
 package Arrays;
 
+//make note of this problem core to reshape metrix
 class matrixReshape {
     public int[][] matrixReshape(int[][] mat, int r, int c) {
         int m = mat.length;
