@@ -1,9 +1,6 @@
 package Arrays;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
+import java.util.*;
 
 public class findMissingAndRepeatedValue {
     public static void main(String[] args) {
@@ -38,6 +35,26 @@ public class findMissingAndRepeatedValue {
 
 
         return ans;
+    }
+
+
+    int missingNum(int arr[]) {
+        HashSet<Integer>set=new HashSet<>();
+        for (int num:arr){
+            set.add(num);
+        }
+        for (int i = 0; i < arr.length; i++) {
+            if (!set.contains(i)) return i;
+        }
+        return -1;
+    }
+
+    int missingNum1(int arr[]) {
+     Arrays.sort(arr);
+        for (int i = 0; i < arr.length ; i++) {
+            if ((arr[i]^i)==0) return arr[i];
+        }
+        return -1;
     }
 
 }
