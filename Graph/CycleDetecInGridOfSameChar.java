@@ -12,7 +12,6 @@ public class CycleDetecInGridOfSameChar {
                 if (!visited[i][j]){
                     boolean ans=dfs(grid,visited,i,j,-1,-1);
                     if (ans) return true;
-        int a=5;
 
                 }
             }
