@@ -17,5 +17,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0334-increasing-triplet-subsequence) |
 | [2256-minimum-average-difference](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2256-minimum-average-difference) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
