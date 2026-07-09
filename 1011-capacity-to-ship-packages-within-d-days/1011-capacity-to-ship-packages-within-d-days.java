@@ -6,7 +6,7 @@ class Solution {
         int ans = 0;
         for (int num : weights) {
             end += num;
-            start = Math.max(start, num);
+            // start = Math.max(start, num);
         }
         while (start <= end) {
             int mid = start + (end - start) / 2;
@@ -29,6 +29,10 @@ class Solution {
             if (currentLoad + weight > capacity) {
                 daysUsed++;
                 currentLoad = 0;
+
+                if(weight > capacity) 
+                    return false;
+                    
             }
 
             currentLoad += weight;
