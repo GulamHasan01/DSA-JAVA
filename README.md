@@ -110,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
