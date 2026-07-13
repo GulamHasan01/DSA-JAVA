@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2256-minimum-average-difference](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2256-minimum-average-difference) |
 ## Greedy
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0278-first-bad-version) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 ## Interactive
 |  |
 | ------- |
