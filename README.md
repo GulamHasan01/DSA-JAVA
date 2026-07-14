@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -114,4 +115,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1291-sequential-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
