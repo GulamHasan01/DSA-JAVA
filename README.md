@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
@@ -140,11 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
