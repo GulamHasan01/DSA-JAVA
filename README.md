@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0633-sum-of-square-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0633-sum-of-square-numbers) |
@@ -170,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
