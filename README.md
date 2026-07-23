@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2256-minimum-average-difference](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2256-minimum-average-difference) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Enumeration
 |  |
 | ------- |
