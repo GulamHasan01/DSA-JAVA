@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0113-path-sum-ii) |
 | [0207-course-schedule](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0733-flood-fill) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0752-open-the-lock) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2685-count-the-number-of-complete-components) |
 ## Bit Manipulation
@@ -264,5 +267,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
