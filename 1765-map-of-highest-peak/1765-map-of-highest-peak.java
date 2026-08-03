@@ -4,7 +4,7 @@ class Solution {
         int n = isWater.length;
         int m = isWater[0].length;
         int[][] ans = new int[n][m];
-        int[][] queue = new int[n * m][3];
+        int[][] queue = new int[n * m][2];
         int front = 0;
         int rear = 0;
         for (int i = 0; i < n; i++) {
@@ -13,7 +13,7 @@ class Solution {
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (isWater[i][j] == 1) {
-                    queue[rear++] = new int[] { i, j, 0 };
+                    queue[rear++] = new int[] { i, j };
                     ans[i][j] = 0;
                 }
 
@@ -23,7 +23,7 @@ class Solution {
                 int[] curr = queue[front++];
                 int cx = curr[0];
                 int cy = curr[1];
-                int dis = curr[2];
+                int dis = ans[cx][cy];
 
                 for (int[] dir : direction) {
                     int nx = dir[0] + cx;
