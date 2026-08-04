@@ -1,7 +1,6 @@
 class Solution {
     public int maximumInvitations(int[] favorite) {
         int n = favorite.length;
-        List<List<Integer>> graph = new ArrayList<>();
         int[] indegre = new int[n];
         int[] queue = new int[n];
         int front = 0;
@@ -11,11 +10,6 @@ class Solution {
         Arrays.fill(depth, 1);
 
         for (int i = 0; i < n; i++) {
-            graph.add(new ArrayList<>());
-        }
-
-        for (int i = 0; i < n; i++) {
-            graph.get(i).add(favorite[i]);
             indegre[favorite[i]]++;
         }
 
