@@ -1,0 +1,20 @@
+class Solution {
+    public boolean predictTheWinner(int[] nums) {
+        int n = nums.length;
+        if (n % 2 == 0) {
+            return true;
+        }
+
+        int[] dp = new int[n];
+        System.arraycopy(nums, 0, dp, 0, n);
+
+        for (int len = 2; len <= n; len++) {
+            for (int i = 0; i <= n - len; i++) {
+                int j = i + len - 1;
+                dp[i] = Math.max(nums[i] - dp[i + 1], nums[j] - dp[i]);
+            }
+        }
+
+        return dp[0] >= 0;
+    }
+}
