@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
+| [0486-predict-the-winner](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0633-sum-of-square-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0480-sliding-window-median](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0480-sliding-window-median) |
+| [0486-predict-the-winner](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0733-flood-fill) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
+| [0486-predict-the-winner](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0542-01-matrix) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0486-predict-the-winner) |
 ## Simulation
 |  |
 | ------- |
@@ -303,4 +307,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
