@@ -330,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1406-stone-game-iii) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
