@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1406-stone-game-iii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Tree
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0633-sum-of-square-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0633-sum-of-square-numbers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
