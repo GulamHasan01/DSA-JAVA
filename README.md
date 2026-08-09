@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0079-word-search) |
+| [0151-reverse-words-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0151-reverse-words-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0633-sum-of-square-numbers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
