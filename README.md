@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0633-sum-of-square-numbers) |
 | [1140-stone-game-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1510-stone-game-iv) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0542-01-matrix) |
 | [1140-stone-game-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1510-stone-game-iv) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -352,18 +354,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1510-stone-game-iv) |
 ## Database
 |  |
 | ------- |
@@ -384,4 +389,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0014-longest-common-prefix) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
