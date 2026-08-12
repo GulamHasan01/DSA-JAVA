@@ -1,9 +1,6 @@
 class Solution {
     public int maxSubarrayLength(int[] nums, int k) {
         HashMap<Integer, Integer> map = new HashMap<>();
-        for (int num : nums) {
-            map.put(num, 0);
-        }
 
         int max = 0;
         int left = 0;
