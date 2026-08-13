@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0752-open-the-lock) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2256-minimum-average-difference](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2256-minimum-average-difference) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -422,4 +424,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0518-coin-change-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
