@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0334-increasing-triplet-subsequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0334-increasing-triplet-subsequence) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0633-sum-of-square-numbers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
