@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
@@ -470,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
@@ -507,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0062-unique-paths) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
