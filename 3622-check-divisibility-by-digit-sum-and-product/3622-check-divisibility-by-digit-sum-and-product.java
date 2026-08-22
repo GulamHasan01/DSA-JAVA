@@ -1,16 +1,22 @@
 class Solution {
     public boolean checkDivisibility(int n) {
-        int ref=n;
-      int sum=0;
-      int product=1;
-      while(n>0){
-        int rem=n%10;
-        sum=sum+rem;
-        product=product*rem;
-        n=n/10;
-      }  
-      System.out.println(sum+product);
-      if(ref%(sum+product)==0)return true;
-     return false;
+        int sum=0;
+        int pro=1;
+        int original=n;
+        while(n!=0)
+        {
+            int last=n%10;
+            sum=sum+last;
+            pro=pro*last;
+            n/=10;
+        }
+
+        int result=sum+pro;
+        if(original%result==0)
+        {
+            return true;
+        }
+
+        return false;
     }
 }
