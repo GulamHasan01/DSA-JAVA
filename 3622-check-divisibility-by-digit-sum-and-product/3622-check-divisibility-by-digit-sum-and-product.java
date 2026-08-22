@@ -11,6 +11,6 @@ class Solution {
       }  
       System.out.println(sum+product);
       if(ref%(sum+product)==0)return true;
-      else return false;
+     return false;
     }
 }
