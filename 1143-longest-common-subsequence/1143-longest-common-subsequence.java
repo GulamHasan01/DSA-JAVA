@@ -6,12 +6,7 @@ class Solution {
         for (int[] num : dp) {
             Arrays.fill(num, 0);
         }
-        for (int i = 0; i < m; i++) {
-            dp[0][i] = 0;
-        }
-        for (int i = 0; i < m; i++) {
-            dp[0][i] = 0;
-        }
+      
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= m; j++) {
                 if (text1.charAt(i-1) == text2.charAt(j-1))
