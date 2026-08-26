@@ -1,32 +1,59 @@
 class Solution {
     public String shortestBeautifulSubstring(String s, int k) {
 
+        Set<String> set = new HashSet<>();
+        StringBuilder sb = new StringBuilder();
+
         int start = 0;
+        int j = 0;
         int count = 0;
+        int min = Integer.MAX_VALUE;
 
-        String ans = "";
+        while (j < s.length()) {
 
-        for (int j = 0; j < s.length(); j++) {
+            char ch = s.charAt(j);
+            sb.append(ch);
 
-            if (s.charAt(j) == '1') {
+            if (ch == '1') {
                 count++;
             }
 
             while (count == k) {
 
-                String current = s.substring(start, j + 1);
+                String current = sb.toString();
 
-                if (ans.equals("") ||
-                    current.length() < ans.length() ||
-                    (current.length() == ans.length() && current.compareTo(ans) < 0)) {
-                    ans = current;
-                }
+                set.add(current);
+                min = Math.min(min, current.length());
 
-                if (s.charAt(start) == '1') {
+                char l = sb.charAt(0);
+                sb.deleteCharAt(0);
+
+                if (l == '1') {
                     count--;
                 }
 
                 start++;
+
+                // Remove leading zeros
+                while (start <= j && sb.length() > 0 && sb.charAt(0) == '0') {
+                    sb.deleteCharAt(0);
+                    start++;
+                }
+            }
+
+            j++;
+        }
+
+        // Find shortest strings
+        String ans = "";
+
+        for (String ss : set) {
+
+            if (ss.length() == min) {
+
+                if (ans.equals("") || ss.compareTo(ans) < 0) {
+                    ans = ss;
+                }
             }
         }
 
