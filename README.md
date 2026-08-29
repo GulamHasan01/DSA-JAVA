@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0583-delete-operation-for-two-strings) |
 | [0752-open-the-lock](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0752-open-the-lock) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0583-delete-operation-for-two-strings) |
