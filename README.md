@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1765-map-of-highest-peak](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1765-map-of-highest-peak) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1563-stone-game-v) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
