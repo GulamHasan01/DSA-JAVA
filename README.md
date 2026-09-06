@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0177-nth-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0184-department-highest-salary](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0184-department-highest-salary) |
 ## Knapsack Problem
 |  |
 | ------- |
