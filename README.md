@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0279-perfect-squares) |
