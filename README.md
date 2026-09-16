@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2256-minimum-average-difference](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2256-minimum-average-difference) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3903-smallest-stable-index-i) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
