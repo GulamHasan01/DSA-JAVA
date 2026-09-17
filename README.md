@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1563-stone-game-v](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
