@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0213-house-robber-ii) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0416-partition-equal-subset-sum) |
