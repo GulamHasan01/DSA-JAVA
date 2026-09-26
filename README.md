@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1927-sum-game](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1765-map-of-highest-peak](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1765-map-of-highest-peak) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
