@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2256-minimum-average-difference](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2256-minimum-average-difference) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3524-find-x-value-of-array-i) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1765-map-of-highest-peak](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1765-map-of-highest-peak) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
@@ -649,4 +652,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
