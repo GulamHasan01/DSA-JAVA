@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0475-heaters) |
 | [0480-sliding-window-median](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0494-target-sum) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0475-heaters](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0633-sum-of-square-numbers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
