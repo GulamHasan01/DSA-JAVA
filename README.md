@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0115-distinct-subsequences) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0063-unique-paths-ii) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
