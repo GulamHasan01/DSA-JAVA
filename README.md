@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0735-asteroid-collision) |
 | [0752-open-the-lock](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0752-open-the-lock) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0279-perfect-squares) |
 | [0542-01-matrix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0752-open-the-lock) |
 | [0802-find-eventual-safe-states](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0802-find-eventual-safe-states) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
+| [0695-max-area-of-island](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0079-word-search) |
 | [0542-01-matrix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1277-count-square-submatrices-with-all-ones) |
