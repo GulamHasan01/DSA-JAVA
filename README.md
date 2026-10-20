@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0516-longest-palindromic-subsequence) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0475-heaters) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1386-cinema-seat-allocation](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
