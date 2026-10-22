@@ -59,7 +59,6 @@ class Solution {
             }
         }
 
-     //   System.out.println(list2);
         return 0;
     }
 }
