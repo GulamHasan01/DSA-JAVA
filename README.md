@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0583-delete-operation-for-two-strings) |
 | [0752-open-the-lock](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0752-open-the-lock) |
 | [0940-distinct-subsequences-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0940-distinct-subsequences-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0567-permutation-in-string) |
 | [0752-open-the-lock](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0815-bus-routes) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0480-sliding-window-median) |
+| [0567-permutation-in-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0567-permutation-in-string) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0475-heaters) |
+| [0567-permutation-in-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0633-sum-of-square-numbers) |
 | [1089-duplicate-zeros](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1089-duplicate-zeros) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
