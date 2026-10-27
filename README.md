@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
