@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0279-perfect-squares) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0475-heaters) |
 | [0480-sliding-window-median](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0486-predict-the-winner) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1331-rank-transform-of-an-array) |
