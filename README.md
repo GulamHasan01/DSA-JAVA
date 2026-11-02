@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2256-minimum-average-difference](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2256-minimum-average-difference) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3904-smallest-stable-index-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2643-row-with-maximum-ones](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2643-row-with-maximum-ones) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Interactive
