@@ -1,32 +1,16 @@
 class Solution {
     public boolean repeatedSubstringPattern(String s) {
-        StringBuilder sb = new StringBuilder();
-        
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-            sb.append(ch);
-            
-            if (sb.length() * 2 > s.length()) return false;
-            
-            int window = sb.length();
-            if (s.length() % window != 0) continue;
-            
-            String sub = s.substring(window, window + window);
-            
-            if (sub.equals(sb.toString())) {
-                int counter = window + window;
-                boolean match = true;
-                
-                while (counter < s.length()) {
-                    sub = s.substring(counter, counter + window);
-                    if (!sub.equals(sb.toString())) {
-                        match = false;
-                        break;
-                    }
-                    counter = counter + window;
+        int n = s.length();
+        for (int i = 1; i <= n / 2; i++) {
+            if (n % i == 0) {
+                String pattern = s.substring(0, i);
+                StringBuilder sb = new StringBuilder();
+                for (int j = 0; j < n / i; j++) {
+                    sb.append(pattern);
                 }
-                
-                if (match && counter == s.length()) return true;
+                if (sb.toString().equals(s)) {
+                    return true;
+                }
             }
         }
         return false;
