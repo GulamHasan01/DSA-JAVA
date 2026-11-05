@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2256-minimum-average-difference](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2256-minimum-average-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Queue
