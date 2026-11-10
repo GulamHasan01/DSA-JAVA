@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0279-perfect-squares) |
+| [0371-sum-of-two-integers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0509-fibonacci-number) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1386-cinema-seat-allocation](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1386-cinema-seat-allocation) |
