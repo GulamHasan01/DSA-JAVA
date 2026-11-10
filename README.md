@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0455-assign-cookies) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0455-assign-cookies) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0480-sliding-window-median) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0633-sum-of-square-numbers) |
@@ -569,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0079-word-search) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0733-flood-fill) |
