@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1927-sum-game](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1260-shift-2d-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
