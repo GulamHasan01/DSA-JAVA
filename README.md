@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0459-repeated-substring-pattern) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GulamHasan01/DSA-JAVA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
+| [0394-decode-string](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/GulamHasan01/DSA-JAVA/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GulamHasan01/DSA-JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
